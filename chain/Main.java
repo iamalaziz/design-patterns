@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package chain;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

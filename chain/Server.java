@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package chain;
 
 import java.util.HashMap;
 import java.util.Map;

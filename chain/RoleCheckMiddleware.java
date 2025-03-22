@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package chain;
 
 /**
  * RoleCheckMiddleware class is a concrete middleware class that checks

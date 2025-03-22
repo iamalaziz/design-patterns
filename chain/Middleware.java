@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package chain;
 
 /**
  * The Middleware class represents a middleware component in the chain of
