@@ -1,4 +1,5 @@
-package Structural;
+package adapter;
+
 /*
 Implement the Adapter design pattern.
 
